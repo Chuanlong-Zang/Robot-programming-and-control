@@ -13,11 +13,11 @@ Using Teach-in Programming to control a robot arm (FANUC LR Mate 200iD 4s), so t
 
 (3) "waste bin" for not expected type of cylinders
 
-![image](./Images/waste bin.png)
+![image](./Images/waste_bin.png)
 
 (4) store position
 
-![image](./Images/store position.png)
+![image](./Images/store_position.png)
 
 ## Results
 
