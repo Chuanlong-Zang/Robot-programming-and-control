@@ -21,6 +21,4 @@ Using Teach-in Programming to control a robot arm (FANUC LR Mate 200iD 4s), so t
 
 ## Results
 
-<video width="320" height="240" controls>
-  <source src="./Result/fanuc.mp4" type="video/mp4">
-</video>
+Please refer to [video](./Result/fanuc.mp4) for results.
